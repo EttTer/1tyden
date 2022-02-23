@@ -56,7 +56,8 @@ footer{background-color:
     #6C5555;
     color: #E5C5D0;
 text-align: center;
-padding: 15px 200px 15px 200px;}
+padding: 15px 200px 15px 200px;
+margin: 0px 100px 0px 100px }
 
 
 .Pracovnizkusenosti{background-color:#6C5555;
@@ -67,9 +68,28 @@ padding: 15px 200px 15px 200px;}
 border: 7px solid #E5C5D0;
 border-radius: 150px;}
 
-section{padding: 0px 200px 20px 200px;}
+section{padding: 0px 200px 20px 200px;
+    margin: 0px 100px 0px 100px }
 
 img {float: left;
     margin-right: 70px;}
 
 .Osobni {text-align: center;}
+
+.Menu {margin:0;
+padding: 0;
+text-align: center;
+color: #E5C5D0;
+background-color: #ffffff;
+}
+.Menu li{display:inline-block ;}
+
+.Menu a{display:inline-block;
+    font-style: normal;
+    color: #6C5555;
+    font-size: 20px;
+    font-weight: 700;
+text-decoration: none;
+padding: 20px 30px;}
+
+a:hover {color: #E5C5D0;}
