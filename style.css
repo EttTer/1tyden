@@ -3,7 +3,7 @@ body{color: #301c1c;
     background-color: #ffffff;
     font-family: Arial, sans-serif;}
 header{background-color: #6C5555;
-    padding: 30px 200px 50px 200px;
+    padding: 30px 200px 90px 200px;
 margin: 0px 100px 0px 100px ;}
 
 h1  {color: #6C5555; 
@@ -34,7 +34,9 @@ h3{color: #6C5555;
     background-color: hsl(339, 38%, 84%);
     font-size: 30px;
 font-weight: 700;
-text-align: center;}
+text-align: center;
+margin: 10px 10px 10px 10px;
+padding: 5px 10px 5px 10px }
 
 .Kontakt {text-align: center;
 line-height:2;}
@@ -90,6 +92,6 @@ background-color: #ffffff;
     font-size: 20px;
     font-weight: 700;
 text-decoration: none;
-padding: 20px 30px;}
+padding: 20px 15px;}
 
 a:hover {color: #E5C5D0;}
