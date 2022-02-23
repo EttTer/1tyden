@@ -1,18 +1,26 @@
 body{color: #301c1c;
     font-size: 20px;
-    background-color: #f8eef1;
+    background-color: #ffffff;
     font-family: Arial, sans-serif;}
 header{background-color: #6C5555;
-    padding: 50px 200px 50px 200px;
+    padding: 30px 200px 50px 200px;
 margin: 0px 100px 0px 100px ;}
 
 h1  {color: #6C5555; 
     font-size: 45px;
-    padding: 50px 0px 50px 0px;
+    padding: 50px 300px 50px 0px;
     
 font-weight: 800;
 text-align: right;
-margin right: 500px;}
+margin: 0px;
+text-shadow: 0 3px 3px  #301c1c;}
+
+.Tereza{padding: 110px 150px;
+    background-image: url(flower-g308d907ac_640.jpg);
+    background-size:contain;
+background-repeat: no-repeat;
+background-position: right;}
+
 
 
 
@@ -24,6 +32,7 @@ text-align: right;}
 
 h3{color: #6C5555;
     background-color: hsl(339, 38%, 84%);
+    font-size: 30px;
 font-weight: 700;
 text-align: center;}
 
@@ -32,7 +41,8 @@ line-height:2;}
 
 h4{color: #6C5555;
     background-color: #E5C5D0;
-padding-left: 50px;}
+padding-left: 50px;
+font-size: 20px;}
 
 
 
@@ -54,7 +64,7 @@ padding: 15px 200px 15px 200px;}
 .Lekarskezkusenosti{background-color:#6C5555;color: #E5C5D0;}
 
 .Foto{width: 300px;
-border: 7px solid #6C5555;
+border: 7px solid #E5C5D0;
 border-radius: 150px;}
 
 section{padding: 0px 200px 20px 200px;}
@@ -62,4 +72,4 @@ section{padding: 0px 200px 20px 200px;}
 img {float: left;
     margin-right: 70px;}
 
-.Osobni {text-align: left;}
+.Osobni {text-align: center;}
