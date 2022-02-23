@@ -1,13 +1,65 @@
-h1{color: #6C5555;}
-h1{background-color: #E5C5D0;}
+body{color: #301c1c;
+    font-size: 20px;
+    background-color: #f8eef1;
+    font-family: Arial, sans-serif;}
+header{background-color: #6C5555;
+    padding: 50px 200px 50px 200px;
+margin: 0px 100px 0px 100px ;}
+
+h1  {color: #6C5555; 
+    font-size: 45px;
+    padding: 50px 0px 50px 0px;
+    
+font-weight: 800;
+text-align: right;
+margin right: 500px;}
 
 
-h2{color: #6C5555;}
-h3{color: #6C5555;}
 
-h4{color: #6C5555;}
-h4{background-color: #E5C5D0;}
+h2{color: #E5C5D0;
+    font-size: 30px;
+font-weight: 600;
+font-style: italic;
+text-align: right;}
 
-body{color: #301c1c;}
-body{background-color: #f8eef1;}
+h3{color: #6C5555;
+    background-color: hsl(339, 38%, 84%);
+font-weight: 700;
+text-align: center;}
 
+.Kontakt {text-align: center;
+line-height:2;}
+
+h4{color: #6C5555;
+    background-color: #E5C5D0;
+padding-left: 50px;}
+
+
+
+    p {line-height: 1.8;
+    padding-left: 10px;}
+ul {line-height: 1.5;}
+a{font-style: italic;
+color: rgb(94, 7, 7);}
+
+footer{background-color: 
+    #6C5555;
+    color: #E5C5D0;
+text-align: center;
+padding: 15px 200px 15px 200px;}
+
+
+.Pracovnizkusenosti{background-color:#6C5555;
+    color:#E5C5D0 ;}
+.Lekarskezkusenosti{background-color:#6C5555;color: #E5C5D0;}
+
+.Foto{width: 300px;
+border: 7px solid #6C5555;
+border-radius: 150px;}
+
+section{padding: 0px 200px 20px 200px;}
+
+img {float: left;
+    margin-right: 70px;}
+
+.Osobni {text-align: left;}
