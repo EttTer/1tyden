@@ -39,7 +39,7 @@ margin: 10px 10px 10px 10px;
 padding: 5px 10px 5px 10px }
 
 .Kontakt {text-align: center;
-line-height:2;}
+ line-height: 1.8;}
 
 h4{color: #6C5555;
     background-color: #E5C5D0;
@@ -50,7 +50,7 @@ font-size: 20px;}
 
     p {line-height: 1.8;
     padding-left: 10px;}
-ul {line-height: 1.5;}
+ul {line-height: 1.8;}
 a{font-style: italic;
 color: rgb(94, 7, 7);}
 
@@ -76,7 +76,8 @@ section{padding: 0px 200px 20px 200px;
 img {float: left;
     margin-right: 70px;}
 
-.Osobni {text-align: center;}
+.Osobni {text-align: center;
+line-height: 1.8;}
 
 .Menu {margin:0;
 padding: 0;
